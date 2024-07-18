@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+E:\StockManagementSystem\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3078697402.index
+\StockManagementSystem\src\main\java
